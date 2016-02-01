@@ -1,0 +1,15 @@
+#time python3 count.py ../samples/forward_integral_7.json >out7.txt
+#time python3 count.py ../samples/forward_integral_8.json >out8.txt
+#time python3 count.py ../samples/forward_integral_9.json >out9.txt
+time python3 count.py ../samples/forward_integral_12.json >out12.txt
+time python3 count.py ../samples/forward_integral_13.json >out13.txt
+time python3 count.py ../samples/forward_integral_16.json >out16.txt
+time python3 count.py ../samples/forward_integral_20.json >out20.txt
+time python3 count.py ../samples/forward_integral_21.json >out21.txt
+time python3 count.py ../samples/forward_integral_22.json >out22.txt
+time python3 count.py ../samples/forward_integral_23.json >out23.txt
+time python3 count.py ../samples/forward_integral_24.json >out24.txt
+# time python3 count.py ../samples/forward_integral_26.json >out26.txt
+time python3 count.py ../samples/forward_integral_30.json >out30.txt
+time python3 count.py ../samples/forward_integral_34.json >out34.txt
+time python3 count.py ../samples/forward_integral_35.json >out35.txt
